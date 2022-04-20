@@ -1,0 +1,10 @@
+C:\Users\Jace\source\repos\WebApplication5\WebApplication5.Infrastructure\bin\Debug\netcoreapp3.1\WebApplication5.Infrastructure.deps.json
+C:\Users\Jace\source\repos\WebApplication5\WebApplication5.Infrastructure\bin\Debug\netcoreapp3.1\WebApplication5.Infrastructure.dll
+C:\Users\Jace\source\repos\WebApplication5\WebApplication5.Infrastructure\bin\Debug\netcoreapp3.1\WebApplication5.Infrastructure.pdb
+C:\Users\Jace\source\repos\WebApplication5\WebApplication5.Infrastructure\obj\Debug\netcoreapp3.1\WebApplication5.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Jace\source\repos\WebApplication5\WebApplication5.Infrastructure\obj\Debug\netcoreapp3.1\WebApplication5.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jace\source\repos\WebApplication5\WebApplication5.Infrastructure\obj\Debug\netcoreapp3.1\WebApplication5.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Jace\source\repos\WebApplication5\WebApplication5.Infrastructure\obj\Debug\netcoreapp3.1\WebApplication5.Infrastructure.AssemblyInfo.cs
+C:\Users\Jace\source\repos\WebApplication5\WebApplication5.Infrastructure\obj\Debug\netcoreapp3.1\WebApplication5.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Jace\source\repos\WebApplication5\WebApplication5.Infrastructure\obj\Debug\netcoreapp3.1\WebApplication5.Infrastructure.dll
+C:\Users\Jace\source\repos\WebApplication5\WebApplication5.Infrastructure\obj\Debug\netcoreapp3.1\WebApplication5.Infrastructure.pdb
